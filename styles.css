@@ -1,0 +1,12 @@
+
+.btn:focus{
+    box-shadow: none !important; 
+}
+
+ .navbar-brand {
+    font-family: 'Style Script', cursive;
+    font-size: 28px !important;
+}
+#profile {
+    background-color: #dcdcdc;
+}
